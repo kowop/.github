@@ -1,7 +1,6 @@
 ## Hi, we are kowop.io 👋
 
-
-![Kowop io_READme_intro](https://user-images.githubusercontent.com/76072447/178735463-a5b1fedc-4d84-409a-b28c-15e9cc77843c.gif)
+![Kowop io_READme_intro](https://user-images.githubusercontent.com/76072447/178737143-6c5a0bb6-9f91-48ad-91dd-4e9e36532944.gif)
 
 
 
